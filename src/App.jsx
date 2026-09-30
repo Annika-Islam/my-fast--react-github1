@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react'
 import './App.css'
 import Object from './componests/Object'
 import SingleData from './componests/SingleData'
+import Button from './Button'
 
 
 
@@ -47,7 +48,13 @@ const App = () => {
   // const arrays = ["Annika", "sumaiya", "Akhi", "Nurifa"]
 
   return (
-    <div className=' grid grid-cols-3  text-black gap-3'>
+
+    <div >
+       <div className=' grid grid-cols-3  text-black gap-3'>
+
+
+          <Button></Button>
+
 
      <h1 className='bg-amber-800 rounded-2xl text-2xl '>Data : {alldata.length} </h1>
      {
@@ -76,6 +83,9 @@ const App = () => {
       alert = {buttonClk}
 
       ></Object> */}
+
+       </div>
+    
 
 
 
