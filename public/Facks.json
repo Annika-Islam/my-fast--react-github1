@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "slug": "wireless-bluetooth-headphones",
+    "category": "Electronics",
+    "price": 45.99,
+    "isAvailable": true,
+    "total" : 20
+  },
+  {
+    "id": 2,
+    "title": "Ergonomic Office Chair",
+    "slug": "ergonomic-office-chair",
+    "category": "Furniture",
+    "price": 120.00,
+    "isAvailable": true ,
+    "total" : 20
+  },
+  {
+    "id": 3,
+    "title": "Mechanical Gaming Keyboard",
+    "slug": "mechanical-gaming-keyboard",
+    "category": "Electronics",
+    "price": 75.50,
+    "isAvailable": false,
+    "total" : 20
+  },
+  {
+    "id": 4,
+    "title": "Stainless Steel Water Bottle",
+    "slug": "stainless-steel-water-bottle",
+    "category": "Fitness",
+    "price": 18.25,
+    "isAvailable": true ,
+    "total" : 20
+  },
+  {
+    "id": 5,
+    "title": "Smart Fitness Band",
+    "slug": "smart-fitness-band",
+    "category": "Wearables",
+    "price": 35.00,
+    "isAvailable": true ,
+    "total" : 20
+  },
+  {
+    "id": 6,
+    "title": "4K Ultra HD Monitor",
+    "slug": "4k-ultra-hd-monitor",
+    "category": "Electronics",
+    "price": 289.99,
+    "isAvailable": false ,
+    "total" : 20
+  },
+  {
+    "id": 7,
+    "title": "USB-C Fast Charger (65W)",
+    "slug": "usb-c-fast-charger-65w",
+    "category": "Accessories",
+    "price": 24.90,
+    "isAvailable": true ,
+    "total" : 20
+  },
+  {
+    "id": 8,
+    "title": "Waterproof Backpack",
+    "slug": "waterproof-backpack",
+    "category": "Travel",
+    "price": 52.00,
+    "isAvailable": true ,
+    "total" : 20
+  },
+  {
+    "id": 9,
+    "title": "Noise-Cancelling Earbuds",
+    "slug": "noise-cancelling-earbuds",
+    "category": "Electronics",
+    "price": 60.00,
+    "isAvailable": true ,
+    "total" : 20
+  },
+  {
+    "id": 10,
+    "title": "Adjustable Laptop Stand",
+    "slug": "adjustable-laptop-stand",
+    "category": "Accessories",
+    "price": 29.99,
+    "isAvailable": true ,
+    "total" : 20
+  }
+]

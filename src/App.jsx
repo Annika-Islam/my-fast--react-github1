@@ -4,6 +4,7 @@ import './App.css'
 import Object from './componests/Object'
 import SingleData from './componests/SingleData'
 import Button from './Button'
+import Products from './componests/Products'
 
 
 
@@ -50,6 +51,8 @@ const App = () => {
   return (
 
     <div >
+
+      <Products></Products>
        <div className=' grid grid-cols-3  text-black gap-3'>
 
 
